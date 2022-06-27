@@ -31,7 +31,7 @@
 
 - 👨‍💻 All of my projects (even my learnings) are available here at [github.com/rudkul](github.com/rudkul)
 
-[![Rudransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudkul&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Rudransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudkul&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/rudkul)
 
 <h3 align="left">Languages and Tools I'm proficient at:</h3>
 <p align="left">
@@ -52,7 +52,7 @@
   
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudkul&layout=compact&exclude_repo=rudkul&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudkul&layout=compact&exclude_repo=rudkul&hide=html&theme=tokyonight)](https://github.com/rudkul)
 
 
 
