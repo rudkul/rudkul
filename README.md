@@ -1,3 +1,7 @@
+
+<!--[![MasterHead](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ftftrgyukw2gcb70jnw39adusyizxfytcubz9ix4&rid=giphy.gif&ct=g)](https://rudranshkulkarni.in)-->
+
+
 <h1 align="center">Hi 👋, I'm Rudransh Kulkarni</h1>
 <h3 align="center">Aspiring to be a Computer Science Entrepreneur that will one day change the world</h3>
 
