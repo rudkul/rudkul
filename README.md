@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rudransh Kulkarni</h1>
-<h3 align="center">Aspiring to be a Computer Science Entrepreneur that will one day change the world</h3>
+<h3 align="center">Make cool tech - Change the world - Chill</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudkul&label=Profile%20views&color=0e75b6&style=flat" alt="rudkul" /> </p>
@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/rudkul" target="blank"><img src="https://img.shields.io/twitter/follow/rudkul?logo=twitter&style=for-the-badge" alt="rudkul" /></a> </p>
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ftftrgyukw2gcb70jnw39adusyizxfytcubz9ix4&rid=giphy.gif&ct=g" align="right" alt="Coding" width="400" height="300"/>
 
-- 🔭 I’m currently working on [Sahayak (React-Native)](https://github.com/rudkul/loop-helper-app)
+<!--- 🔭 I’m currently working on [Sahayak (React-Native)](https://github.com/rudkul/loop-helper-app)-->
 
 - 🤝 I'm currently studying **Computer Science Engineering in PES University, Bangalore**
 
@@ -19,17 +19,19 @@
 
 - 🌱 I’m currently learning **Flutter and MERN Development**
 
-- 👨‍💻 All of my projects (even my learnings) are available at [github.com/rudkul](github.com/rudkul)
+- 📝 Learn more about me on [rudranshkulkarni.in](rudranshkulkarni.in)
 
-- 📝 Learn more about me [rudranshkulkarni.in](rudranshkulkarni.in)
+<!--- 💬 Ask me about **Anything (I'm trying to figure out quite a few things myself)**-->
 
-- 💬 Ask me about **Anything (I'm trying to figure out quite a few things myself)**
+- 📫 How to reach me: **rudranshklkrn@gmail.com**
 
-- 📫 How to reach me **rudranshklkrn@gmail.com**
+- 📄 Here's my resume (a few changes still need to be made though): [Right here](https://drive.google.com/file/d/1aN3zXerNTSh_gN1OZBW5QHO_MzFPYi2j/view?usp=sharing)
 
-- 📄 Here's my resume (a few changes still need to be made though) [https://drive.google.com/file/d/1aN3zXerNTSh_gN1OZBW5QHO_MzFPYi2j/view?usp=sharing](https://drive.google.com/file/d/1aN3zXerNTSh_gN1OZBW5QHO_MzFPYi2j/view?usp=sharing)
+- ⚡ Fun fact: **I think of myself as a Jack of all trades and a Master of some**
 
-- ⚡ Fun fact **I think of myself as a Jack of all trades and a Master of some**
+- 👨‍💻 All of my projects (even my learnings) are available here at [github.com/rudkul](github.com/rudkul)
+
+[![Rudransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudkul&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools I'm proficient at:</h3>
 <p align="left">
@@ -48,6 +50,13 @@
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
   
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudkul&layout=compact&exclude_repo=rudkul&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudkul&" alt="rudkul" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rudkul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudkul" height="30" width="40" /></a>
@@ -60,10 +69,3 @@
 <a href="https://kaggle.com/rudranshkulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rudranshkulkarni" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/rudransh_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="rudransh_k" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudkul&show_icons=true&locale=en&layout=compact" alt="rudkul" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudkul&show_icons=true&locale=en" alt="rudkul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudkul&" alt="rudkul" /></p>
-
