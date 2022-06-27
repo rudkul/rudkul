@@ -57,6 +57,8 @@
 <a href="https://www.hackerrank.com/rudransh_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rudransh_k" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rudransh_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rudransh_k" height="30" width="40" /></a>
 <a href="https://discord.gg/null#6370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="null#6370" height="30" width="40" /></a>
+<a href="https://kaggle.com/rudranshkulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rudranshkulkarni" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/rudransh_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="rudransh_k" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudkul&show_icons=true&locale=en&layout=compact" alt="rudkul" /></p>
