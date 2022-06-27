@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rudransh Kulkarni</h1>
 <h3 align="center">Aspiring to be a Computer Science Entrepreneur that will one day change the world</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudkul&label=Profile%20views&color=0e75b6&style=flat" alt="rudkul" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rudkul" target="blank"><img src="https://img.shields.io/twitter/follow/rudkul?logo=twitter&style=for-the-badge" alt="rudkul" /></a> </p>
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ftftrgyukw2gcb70jnw39adusyizxfytcubz9ix4&rid=giphy.gif&ct=g" align="right" alt="Coding" width="400" height="300"/>
 
 - 🔭 I’m currently working on [Sahayak (React-Native)](https://github.com/rudkul/loop-helper-app)
 
