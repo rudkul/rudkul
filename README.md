@@ -32,6 +32,12 @@
 - 👨‍💻 All of my projects (even my learnings) are available here at [github.com/rudkul](github.com/rudkul)
 
 [![Rudransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudkul&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/rudkul)
+<br>
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
+
 
 <h3 align="left">Languages and Tools I'm proficient at:</h3>
 <p align="left">
