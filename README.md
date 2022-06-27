@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rudransh Kulkarni</h1>
 <h3 align="center">Aspiring to be a Computer Science Entrepreneur that will one day change the world</h3>
 
-<img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudkul&label=Profile%20views&color=0e75b6&style=flat" alt="rudkul" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudkul" alt="rudkul" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rudlkul" target="blank"><img src="https://img.shields.io/twitter/follow/rudlkul?logo=twitter&style=for-the-badge" alt="rudlkul" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rudkul" target="blank"><img src="https://img.shields.io/twitter/follow/rudkul?logo=twitter&style=for-the-badge" alt="rudkul" /></a> </p>
 
 - 🔭 I’m currently working on [Sahayak (React-Native)](https://github.com/rudkul/loop-helper-app)
 
@@ -32,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rudlkul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudlkul" height="30" width="40" /></a>
+<a href="https://twitter.com/rudkul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudkul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rudransh-kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudransh-kulkarni" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14543021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14543021" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rudransh_k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rudransh_k" height="30" width="40" /></a>
