@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Flutter and MERN Development**
 
-- 📝 Learn more about me on [rudranshkulkarni.in](https://rudranshkulkarni.in)
+- 📝 Learn more about me on [rudranshkulkarni.in](http://rudranshkulkarni.in)
 
 <!--- 💬 Ask me about **Anything (I'm trying to figure out quite a few things myself)**-->
 
