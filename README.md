@@ -1,9 +1,9 @@
 
-<!--[![MasterHead](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ftftrgyukw2gcb70jnw39adusyizxfytcubz9ix4&rid=giphy.gif&ct=g)](https://rudranshkulkarni.in)-->
+[![MasterHead](https://github.com/rudkul/rudkul/blob/main/RUDRANSH%20KULKARNI(1)(1).png)](https://rudranshkulkarni.in)
 
 
-<h1 align="center">Hi 👋, I'm Rudransh Kulkarni</h1>
-<h3 align="center">Make cool tech - Change the world - Chill</h3>
+<!--<h1 align="center">Hi 👋, I'm Rudransh Kulkarni</h1>
+<h3 align="center">Make cool tech - Change the world - Chill</h3>-->
 
 <!--<p align="center"> 
   Visitor count<br>
