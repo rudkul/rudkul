@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/rudkul/rudkul/blob/main/RUDRANSH%20KULKARNI(1)(1).png)](https://rudranshkulkarni.in)
+[![MasterHead](https://github.com/rudkul/rudkul/blob/main/RUDRANSH%20KULKARNI(2)(1).png)](https://rudranshkulkarni.in)
 
 
 <!--<h1 align="center">Hi 👋, I'm Rudransh Kulkarni</h1>
