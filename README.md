@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/rudkul/rudkul/blob/main/ezgif.com-gif-maker.gif)](https://rudranshkulkarni.in)
+[![MasterHead](https://github.com/rudkul/rudkul/blob/main/ezgif.com-gif-maker(2).gif)](https://rudranshkulkarni.in)
 
 
 <!--<h1 align="center">Hi 👋, I'm Rudransh Kulkarni</h1>
