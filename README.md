@@ -71,14 +71,17 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudkul&layout=compact&exclude_repo=rudkul&hide=html&theme=tokyonight)](https://github.com/rudkul)
-<h4 align="left">Languages/Tools I've worked with here and there:</h4>
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudkul&&theme=tokyonight" alt="rudkul" /></p>
 
-
+<a href="https://www.codechef.com/users/rudransh_k" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/rudransh_k" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+<a href="https://kaggle.com/rudranshkulkarni" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://leetcode.com/rudransh_k/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
+<a href="https://www.hackerrank.com/rudransh_k" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudkul&" alt="rudkul" /></p>-->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudkul&&theme=tokyonight" alt="rudkul" /></p>
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -92,9 +95,20 @@
 <!--<a href="https://kaggle.com/rudranshkulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rudranshkulkarni" height="30" width="40" /></a>-->
 <a href="https://www.topcoder.com/members/rudransh_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="rudransh_k" height="30" width="40" /></a>
 </p>
-<br>
-<a href="https://www.codechef.com/users/rudransh_k" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/rudransh_k" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
-<a href="https://kaggle.com/rudranshkulkarni" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="https://leetcode.com/rudransh_k/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
-<a href="https://www.hackerrank.com/rudransh_k" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+
+<hr>
+<hr>
+
+<h4 align="left">Languages/Tools I've worked with here and there:</h4>
+<img align="left" alt="c" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img align="left" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="left" alt="anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
+<img align="left" alt="expo" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
+<img alt="express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img align="left" alt="node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img align="left" alt="opencv" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img align="left" alt="react-native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img align="left" alt="socketio" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
+<img align="left" alt="netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
