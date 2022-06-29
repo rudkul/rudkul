@@ -83,7 +83,7 @@
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudkul&" alt="rudkul" /></p>-->
 
 <hr>
-<h3 align="left">Contact me:</h3>
+<h3 align="left">Connect with me here:</h3>
 <p align="left">
 <a href="https://twitter.com/rudkul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudkul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rudransh-kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudransh-kulkarni" height="30" width="40" /></a>
