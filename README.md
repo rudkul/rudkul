@@ -18,7 +18,9 @@
 
 <!--- 🔭 I’m currently working on [Sahayak (React-Native)](https://github.com/rudkul/loop-helper-app)-->
 
-- 🤝 I'm currently studying **Computer Science Engineering in PES University, Bangalore**
+- 🖥️ I'm currently studying **Computer Science Engineering in PES University, Bangalore**
+
+- 🤝 I am the **Head of the Student Council at PES University, Bangalore** and also the **Director of Appex PESU**, which is the only App Development club on campus
 
 - 👯 I’m looking to collaborate on **Machine Learning and App Development Projects**
 
