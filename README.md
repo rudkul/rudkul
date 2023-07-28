@@ -13,12 +13,17 @@
 <hr>
 
 
-<p align="left"> <a href="https://twitter.com/rudkul" target="blank"><img src="https://img.shields.io/twitter/follow/rudkul?logo=twitter&style=for-the-badge" alt="rudkul" /></a> </p>
+<p align="center">  
+<a href="https://www.linkedin.com/in/rudransh-kulkarni"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
+<a href="https://twitter.com/rudkul" target="blank"><img src="https://img.shields.io/twitter/follow/rudkul?logo=twitter&style=for-the-badge" alt="rudkul" /></a></p>
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ftftrgyukw2gcb70jnw39adusyizxfytcubz9ix4&rid=giphy.gif&ct=g" align="right" alt="Coding" width="400" height="350"/>
+
 
 <!--- 🔭 I’m currently working on [Sahayak (React-Native)](https://github.com/rudkul/loop-helper-app)-->
 
-- 🖥️ I'm currently studying **Computer Science Engineering in PES University, Bangalore**
+- 🖥️ I'm currently studying **Computer Science Engineering in PES University, Bangalore** (Batch of 2024)
+
+- ⚒ I am doing my Summer Internship
 
 - 🤝 I am the **Head of the Student Council at PES University, Bangalore** and also the **Director of Appex PESU**, which is the only App Development club on campus
 
@@ -84,12 +89,12 @@
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudkul&" alt="rudkul" /></p>-->
 
-<hr>
+<!--<hr>
 <h3 align="left">Connect with me here:</h3>
 <p align="left">
 <a href="https://twitter.com/rudkul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudkul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rudransh-kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudransh-kulkarni" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14543021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14543021" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14543021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14543021" height="30" width="40" /></a>-->
 <!--<a href="https://www.codechef.com/users/rudransh_k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rudransh_k" height="30" width="40" /></a>-->
 <!--<a href="https://www.hackerrank.com/rudransh_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rudransh_k" height="30" width="40" /></a>-->
 <!--<a href="https://codeforces.com/profile/rudransh_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rudransh_k" height="30" width="40" /></a>-->
