@@ -37,7 +37,7 @@
 
 - 📫 How to reach me: **rudranshklkrn@gmail.com**
 
-- 📄 Here's my resume (updating constantly): [Right here](https://drive.google.com/file/d/1aN3zXerNTSh_gN1OZBW5QHO_MzFPYi2j/view?usp=sharing)
+- 📄 Here's my resume (updating constantly): [Right here](https://drive.google.com/file/d/1I35WJPYXWAdTAZjqmSVteaY4h7Zk20Fz/view?usp=drive_link)
 
 - ⚡ Fun fact: **I think of myself as a Jack of all trades and a Master of some**
 
