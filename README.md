@@ -43,6 +43,8 @@
 
 - 👨‍💻 All of my projects (even my learnings) are available here at [github.com/rudkul](github.com/rudkul)
 
+<hr>
+
 [![Rudransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudkul&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/rudkul)
 <br>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -103,7 +105,6 @@
 <a href="https://www.topcoder.com/members/rudransh_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="rudransh_k" height="30" width="40" /></a>
 </p>
 
-<hr>
 <hr>
 
 <h4 align="left">Languages/Tools I've worked with here and there:</h4>
