@@ -23,14 +23,14 @@
 
 - 🖥️ I'm currently studying **Computer Science Engineering in PES University, Bangalore** (Batch of 2024)
 
-- ⚒ I am doing my Summer Internship
+- 🏢 Summer Intern at Indian Space Research Organization (ISRO) URSC 2023, Former Intern at PESU IO 2022 and CISCO Thingqbator 2021
 
-- 🤝 I am the **Head of the Student Council at PES University, Bangalore** and also the **Director of Appex PESU**, which is the only App Development club on campus
+- 🤝 **Head of the Student Council at PES University (2022-23), Bangalore**, **President, PES Entrepreneurship Cell (2022-23)**, **Founder and Director of Appex PESU (2021-23)**, which is the only App Development club on campus
 
-- 👯 I’m looking to collaborate on **Machine Learning and App Development Projects**
+- 👯 I’m currently working on projects on **Deep Learning, LLMs, Natural Language Processing and Generative AI**
 
-- 🌱 I’m currently learning **Flutter and MERN Development**
-
+- 🌱 Open to collaborate with and contribute to the **Open Source Community**.
+  
 - 📝 Learn more about me on [rudranshkulkarni.in](http://rudranshkulkarni.in)
 
 <!--- 💬 Ask me about **Anything (I'm trying to figure out quite a few things myself)**-->
