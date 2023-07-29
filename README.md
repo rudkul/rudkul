@@ -16,7 +16,7 @@
 <p align="center">  
 <a href="https://www.linkedin.com/in/rudransh-kulkarni"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
 <a href="https://twitter.com/rudkul" target="blank"><img src="https://img.shields.io/twitter/follow/rudkul?logo=twitter&style=for-the-badge" alt="rudkul" /></a></p>
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ftftrgyukw2gcb70jnw39adusyizxfytcubz9ix4&rid=giphy.gif&ct=g" align="right" alt="Coding" width="400" height="350"/>
+<!--<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ftftrgyukw2gcb70jnw39adusyizxfytcubz9ix4&rid=giphy.gif&ct=g" align="right" alt="Coding" width="400" height="350"/>-->
 
 
 <!--- 🔭 I’m currently working on [Sahayak (React-Native)](https://github.com/rudkul/loop-helper-app)-->
