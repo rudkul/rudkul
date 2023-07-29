@@ -25,7 +25,7 @@
 
 - 🏢 Summer Intern at **Indian Space Research Organization (ISRO) URSC 2023**, Former Intern at **PESU IO 2022** and **CISCO Thingqbator 2021**
 
-- 🤝 **Head of the Student Council** at PES University (2022-23), Bangalore, **President**, PES Entrepreneurship Cell (2022-23), **Founder and Director**, Appex PESU (2021-23), which is the only App Development club on campus
+- 🤝 **Head of the Student Council** at PES University (2022-23), Bangalore, **President**, PES Entrepreneurship Cell (2022-23), **Founder and Director**, Appex PESU (2021-23), the only App Development club on campus
 
 - 👯 I’m currently working on projects on **Deep Learning, LLMs, Natural Language Processing and Generative AI**
 
